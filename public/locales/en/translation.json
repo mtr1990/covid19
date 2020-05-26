@@ -1,0 +1,26 @@
+{
+  "heading": {
+    "title": "Corona Full | Monitor Coronavirus View Time(COVID-19)",
+    "provinces": "Cases in {{length}} provinces of Vietnam",
+    "country": "Cases in {{length}} country",
+    "news": "Latest News"
+  },
+  "label": {
+    "totalcases": "Total cases",
+    "cases": "Cases",
+    "deaths": "Deaths",
+    "recovered": "Recovered",
+    "confirming": "is Confirming",
+    "today": "Today:"
+  },
+  "descriptions": {
+    "jumbotron1": "Last updated at:",
+    "jumbotron2": "Source: WHO, CDC, ECDC, NHC, DXY & Gisanddata."
+  },
+  "action": {
+    "search": "Search",
+    "local": "Viet Nam",
+    "global": "Global",
+    "share": "Share"
+  }
+}

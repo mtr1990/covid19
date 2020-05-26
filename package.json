@@ -1,0 +1,66 @@
+{
+  "name": "covid19",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://mtr1990.github.io/covid19",
+  "dependencies": {
+    "@material-ui/core": "^4.9.11",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.50",
+    "@reduxjs/toolkit": "^1.3.6",
+    "autosuggest-highlight": "^3.1.1",
+    "axios": "^0.18.0",
+    "formik": "^2.1.4",
+    "formik-material-ui": "^2.0.0-beta.1",
+    "i18next": "^19.3.3",
+    "i18next-browser-languagedetector": "^4.0.2",
+    "i18next-xhr-backend": "^3.2.2",
+    "leaflet": "^1.6.0",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "node-sass": "^4.14.1",
+    "notistack": "^0.9.11",
+    "nprogress": "^0.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-helmet-async": "^1.0.4",
+    "react-i18next": "^11.3.1",
+    "react-leaflet": "^2.6.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.3.1",
+    "react-share": "^3.0.0",
+    "react-svg": "^11.0.19",
+    "recharts": "^2.0.0-beta.1",
+    "redux": "^4.0.5",
+    "use-context-selector": "^1.1.1",
+    "use-dark-mode": "^2.3.1"
+  },
+  "scripts": {
+    "start": "PORT=5001 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "proxy": "http://localhost:5000"
+}

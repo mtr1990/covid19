@@ -1,0 +1,26 @@
+{
+  "heading": {
+    "title": "Corona Full | Theo dõi tình hình dịch bệnh virus Corona(COVID-19)",
+    "provinces": "Ca nhiễm ở {{length}} tỉnh Việt Nam",
+    "country": "Ca nhiễm ở {{length}} quốc gia",
+    "news": "Tin tức"
+  },
+  "label": {
+    "totalcases": "Tổng số ca nhiễm",
+    "cases": "Nhiễm bệnh",
+    "deaths": "Tử vong",
+    "recovered": "Bình phục",
+    "confirming": "Đang theo dõi",
+    "today": "Hôm nay:"
+  },
+  "descriptions": {
+    "jumbotron1": "Cập nhật lần cuối lúc:",
+    "jumbotron2": "Nguồn: WHO, CDC, ECDC, NHC, DXY & Gisanddata."
+  },
+  "action": {
+    "search": "Tìm kiếm",
+    "local": "Việt Nam",
+    "global": "Toàn cầu",
+    "share": "Chia sẻ"
+  }
+}
